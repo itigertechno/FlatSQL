@@ -1,5 +1,5 @@
 #include <QtGui/QApplication>
-#include "testdialog.h"
+#include "testdialog/testdialog.h"
 
 int main(int argc, char *argv[]){
     QApplication a(argc, argv);
