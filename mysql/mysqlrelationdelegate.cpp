@@ -1,13 +1,9 @@
 //
 // Created by Paul156551 on 22.03.2023.
-<<<<<<< HEAD
 //      Подкласс QSqlRelationalDelegate, который работает с QSqlRelationalTableModel
 //      Когда вы используете QSqlRelationalTableModel в сочетании с QSortFilterProxyModel, вы теряете автоматическое поле со списком, отображаемое в QTableView.
 //      Это подкласс QSqlRelationalDelegate, который работает
 
-=======
-//
->>>>>>> master/master
 #include "mysql/mysqlrelationdelegate.h"
 #include <QSqlRelationTableModel>
 #include <QSortFilterProxyModel>
